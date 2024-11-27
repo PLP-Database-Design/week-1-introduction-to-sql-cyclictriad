@@ -1,13 +1,13 @@
 <h3> Database Design & Programming with SQL  WEEK 1 ASSIGNMENT</h3>
 
 <h4> 1. State and Explain the components of a DBMS(Database Management System) </h4>
-* Database Engine: Core component that manages data storage, retrieval, and updating operations.
-* Database Schema: Defines the structure of the database, including tables, views, indexes, and relationships.
-* Query Processor: Interprets and executes database queries, converting them into low-level instructions.
-* Transaction Manager: Ensures that database transactions are processed reliably and adhere to ACID properties (Atomicity, Consistency, Isolation, Durability).
-* Storage Manager: Manages the physical storage of data, including file management, indexing, and data retrieval.
-* Data Dictionary: Stores metadata about the database, such as schema, tables, columns, and constraints.
-* User Interface: Provides tools for users (e.g., SQL interface, graphical tools) to interact with the database.
+<li> Database Engine: Core component that manages data storage, retrieval, and updating operations. </li>
+<li>  Database Schema: Defines the structure of the database, including tables, views, indexes, and relationships. </li>
+<li> Query Processor: Interprets and executes database queries, converting them into low-level instructions. </li>
+<li>  Transaction Manager: Ensures that database transactions are processed reliably and adhere to ACID properties (Atomicity, Consistency, Isolation, Durability). </li>
+<li>  Storage Manager: Manages the physical storage of data, including file management, indexing, and data retrieval. </li>
+<li>  Data Dictionary: Stores metadata about the database, such as schema, tables, columns, and constraints. </li>
+<li>  User Interface: Provides tools for users (e.g., SQL interface, graphical tools) to interact with the database. </li>
 
 <h4> 2.What is a relational database? Give 4 examples. </h4>
 A relational database is a type of database that stores data in tables (relations), where each table consists of rows and columns. Data in a relational database is organized into relationships based on common attributes, using keys to link tables together.
