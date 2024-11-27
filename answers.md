@@ -53,22 +53,22 @@ An Entity-Relationship (ER) Diagram is a visual representation of the entities (
 
 
 <h4> 6.What are the advantages of relational databases? </h4>
-Data Integrity: Ensures accuracy and consistency with constraints like primary and foreign keys.
-Flexibility: Allows easy data updates and retrieval with SQL.
-Scalability: Can handle large amounts of data and transactions efficiently.
-Security: Supports access control and user privileges.
-Data Redundancy Reduction: Normalization minimizes duplicate data.
-Ease of Use: Simple to query and manage with SQL.
+<li> Data Integrity: Ensures accuracy and consistency with constraints like primary and foreign keys. </li>
+<li> Flexibility: Allows easy data updates and retrieval with SQL.</li>
+<li> Scalability: Can handle large amounts of data and transactions efficiently.</li>
+<li> Security: Supports access control and user privileges.</li>
+<li> Data Redundancy Reduction: Normalization minimizes duplicate data.</li>
+<li> Ease of Use: Simple to query and manage with SQL.</li>
 
 <h4> 7. State four types of data type used to store data in tables? </h4>
-INT: Used to store integer (whole number) values.
-VARCHAR: Used to store variable-length strings (text).
-DATE: Used to store date values (e.g., YYYY-MM-DD).
-FLOAT: Used to store floating-point (decimal) numbers.
+<li>  INT: Used to store integer (whole number) values. </li>
+<li>  VARCHAR: Used to store variable-length strings (text). </li>
+<li>  DATE: Used to store date values (e.g., YYYY-MM-DD). </li>
+<li> FLOAT: Used to store floating-point (decimal) numbers. </li>
 
 <h4> 8. What is the purpose of a database management system (DBMS)? </h4>
-Store and manage data: Organizes data efficiently for easy access and retrieval.
-Ensure data integrity and security: Enforces rules to maintain data accuracy and restrict unauthorized access.
-Facilitate data manipulation: Allows users to insert, update, delete, and query data using SQL.
-Enable concurrent access: Supports multiple users accessing and modifying data simultaneously without conflicts.
-Backup and recovery: Provides mechanisms to protect data from loss and ensure recovery in case of failure.
+<li> Store and manage data: Organizes data efficiently for easy access and retrieval. </li>
+<li> Ensure data integrity and security: Enforces rules to maintain data accuracy and restrict unauthorized access. </li>
+<li> Facilitate data manipulation: Allows users to insert, update, delete, and query data using SQL. </li>
+<li> Enable concurrent access: Supports multiple users accessing and modifying data simultaneously without conflicts. </li>
+<li> Backup and recovery: Provides mechanisms to protect data from loss and ensure recovery in case of failure. </li>
